@@ -4,7 +4,7 @@
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordJudge&repo=TODO&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LordJudge/TODO) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordJudge&repo=TODO&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LordJudge/TODO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordJudge&repo=LordJudge&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LordJudge/LordJudge) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LordJudge&repo=LordJudge&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LordJudge/LordJudge)
 
 &nbsp;
 
