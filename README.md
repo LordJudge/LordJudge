@@ -12,6 +12,11 @@
 
 ![Judge's Github Stats](https://github-readme-stats.vercel.app/api?username=LordJudge&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
+<a href="https://wakatime.com/@Crawl" target="_blank">
+	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Crawl&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+</a>
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LordJudge&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 #
